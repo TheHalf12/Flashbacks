@@ -1,2 +1,2 @@
 # Flashbacks
-Idk
+This is a cool project!
